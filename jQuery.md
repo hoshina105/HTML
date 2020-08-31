@@ -9,8 +9,9 @@ jQuery の[ダウンロードのページ](https://code.jquery.com/jquery/)で�
 
 通常は圧縮されたファイル（minified と記載されているファイルで拡張子が min.js となっている）ものを使用します。
 
+```Markup
 ![using CDN](https://raw.githubusercontent.com/hoshina105/HTML/master/cdn.jpg)
-
+```
 CDNから`<script>...</script>`をコピーする様子
 
 ![using CDN](cdn.jpg)
@@ -23,7 +24,7 @@ CDNから`<script>...</script>`をコピーする様子
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DjQueryの勉強</title>
+    <title>jQueryの勉強</title>
 </head>
 <body>
 
